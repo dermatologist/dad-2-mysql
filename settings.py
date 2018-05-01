@@ -1,0 +1,5 @@
+HOST = 'localhost'
+USER = 'dad'
+PASSWORD = 'dad'
+DB = 'dad'
+FILENAME = 'dad201415c.csv'
