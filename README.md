@@ -18,3 +18,7 @@ Please note that this repository only contains the scripts for processing DAD, n
 * Add database settings and filename in settings.py
 
 * python dad2mysql.py 
+
+## Author
+
+Bell Eapen (McMaster U)
