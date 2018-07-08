@@ -6,6 +6,9 @@ Discharge Abstract Database (DAD) is a Canada-wide database of hospital admissio
 
 Please note that this repository only contains the scripts for processing DAD, not the data. Data is available for researchers from [Odesi](https://search2.odesi.ca/#/)
 
+## Disclaimer
+*Parts of this material are based on the Canadian Institute for Health Information Discharge Abstract Database Research Analytic Files (sampled from fiscal years 2014-15). However the analysis, conclusions, opinions and statements expressed herein are those of the author(s) and not those of the Canadian Institute for Health Information.*
+
 ## How to use:
 
 * Download DAD csv file to same folder as this script.
